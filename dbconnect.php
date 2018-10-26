@@ -2,7 +2,7 @@
 $servername = "localhost";
 $dbusername = "root";
 $dbpassword = "root";
-$db = "credit_rescue";
+$db = "crmdb";
 
 // Create connection
 $conn = new mysqli($servername, $dbusername, $dbpassword, $db);
